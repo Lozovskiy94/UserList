@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "@fortawesome/free-solid-svg-icons": ["./node_modules/@fortawesome/free-solid-svg-icons"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
+
